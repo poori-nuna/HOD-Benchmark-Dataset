@@ -50,7 +50,7 @@
 
 If this work can be useful for your research, please cite our paper:
 <pre>
-    @misc{ha2023hod,
+@misc{ha2023hod,
       title={HOD: A Benchmark Dataset for Harmful Object Detection}, 
       author={Eungyeom Ha and Heemook Kim and Sung Chul Hong and Dongbin Na},
       year={2023},
