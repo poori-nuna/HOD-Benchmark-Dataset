@@ -1,0 +1,37 @@
+<annotation>
+	<folder>ahocol45</folder>
+	<filename>img_hod_008668.jpg</filename>
+	<path>/ahocol45/img_hod_008668.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>418</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>alcohol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>297</xmin>
+			<ymin>53</ymin>
+			<xmax>421</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>alcohol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>244</xmin>
+			<ymin>117</ymin>
+			<xmax>343</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

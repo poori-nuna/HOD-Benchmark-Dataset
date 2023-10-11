@@ -1,0 +1,25 @@
+<annotation>
+	<folder>gun1</folder>
+	<filename>img_hod_010191.jpg</filename>
+	<path>/gun1/img_hod_010191.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>3922</width>
+		<height>2412</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>697</xmin>
+			<ymin>531</ymin>
+			<xmax>2419</xmax>
+			<ymax>1394</ymax>
+		</bndbox>
+	</object>
+</annotation>
