@@ -19,20 +19,37 @@
 
     <img src="resources/examples_for_each_case.png" width="90%">
 
-* This repository provides (1) normal cases training dataset, (2) hard cases training dataset, (3) normal cases test dataset, (4) hard cases test dataset.
+* This repository provides (1) normal cases dataset, (2) hard cases dataset per category.
 
-    <pre><b>Dataset/</b>
-        <b>normal_cases/</b>
-            train/
-            test/
-        <b>hard_cases/</b>
-            train/
-            test/</pre>
+    <pre>
+        Dataset/
+            alcohol/
+                <b>normal/</b>
+                <b>hard/</b>
+            insulting_gesture/
+                <b>normal/</b>
+                <b>hard/</b>
+            .
+            .
+            .
+                            
+            knife/
+                <b>normal/</b>
+                <b>hard/</b>
+    </pre>
 
-* The normal case training dataset contains 5,198 images.
-* The hard case training dataset contains 4,908 images.
-* The normal case test dataset contains 270 images.
-* The normal case training dataset contains 255 images.
+* The alcohol normal case dataset contains 533 images.
+* The alcohol hard case dataset contains 978 images.
+* The insulting gesture normal case dataset contains 466 images.
+* The insulting gesture hard case dataset contains 267 images.
+* The blood normal case dataset contains 554 images.
+* The blood hard case dataset contains 994 images.
+* The cigarette normal case dataset contains 550 images.
+* The cigarette hard case dataset contains 1,538 images.
+* The gun normal case dataset contains 999 images.
+* The gun hard case dataset contains 566 images.
+* The knife normal case dataset contains 2,366 images.
+* The knife hard case dataset contains 820 images.
 
 ### Source Codes
 
