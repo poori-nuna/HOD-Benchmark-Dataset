@@ -1,4 +1,5 @@
 ## HOD
+
 [![arXiv](https://img.shields.io/badge/arXiv-2208.11613-b31b1b.svg)](https://arxiv.org/abs/2310.05192)
 
 ### A Benchmark Dataset for Harmful Object Detection
@@ -46,6 +47,7 @@
     | hard cases   | <p align="center">978</p> | <p align="center">267</p> | <p align="center">994</p> | <p align="center">1,538 | <p align="center">566</p> | <p align="center">820</p> |
 
 ### Source Codes
+
 * Datasets and source codes that match the experimental environment.
   
     |             | YOLOv5 | Faster R-CNN |
@@ -67,6 +69,7 @@
 ### Citation
 
 If this work can be useful for your research, please cite our paper:
+
 <pre>
 @misc{ha2023hod,
       title={HOD: A Benchmark Dataset for Harmful Object Detection}, 
