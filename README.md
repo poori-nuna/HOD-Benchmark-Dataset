@@ -1,4 +1,6 @@
-## HOD
+## HOD: A Benchmark Dataset for Harmful Object Detection
+[![arXiv](https://img.shields.io/badge/arXiv-2208.11613-b31b1b.svg)](https://arxiv.org/abs/2310.05192)
+
 ### A Benchmark Dataset for Harmful Object Detection
 * This repository provides Harmful Object Dataset and PyTorch implementations for Detection models.
 * This work is presented at arXiv
