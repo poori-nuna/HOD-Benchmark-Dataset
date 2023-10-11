@@ -4,7 +4,7 @@
 
 ### A Benchmark Dataset for Harmful Object Detection
 
-* This repository provides <b>Harmful Object Dataset</b> and PyTorch implementations for Detection models(YOLOv5 and Faster-RCNN).
+* This repository provides <b>Harmful Object Dataset</b> and PyTorch implementations for Detection models (YOLOv5 and Faster-RCNN).
 
 ### Authors
 
