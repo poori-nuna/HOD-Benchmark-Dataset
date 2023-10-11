@@ -38,18 +38,21 @@
                 <b>hard/</b>
     </pre>
 
-|              | alcohol | insulting gesture | blood | cigarette | gun | knife |
-|--------------|---------|-------------------|-------|-----------|-----|-------|
-| normal cases | <p align="center">533</p> | <p align="center">466</p> | <p align="center">554</p> | <p align="center">550 | <p align="center">999</p> | <p align="center">2,366</p> |
-| hard cases   | <p align="center">978</p> | <p align="center">267</p> | <p align="center">994</p> | <p align="center">1,538 | <p align="center">566</p> | <p align="center">820</p> |
+* The number of images for each case per category.
+
+    |              | alcohol | insulting gesture | blood | cigarette | gun | knife |
+    |--------------|---------|-------------------|-------|-----------|-----|-------|
+    | normal cases | <p align="center">533</p> | <p align="center">466</p> | <p align="center">554</p> | <p align="center">550 | <p align="center">999</p> | <p align="center">2,366</p> |
+    | hard cases   | <p align="center">978</p> | <p align="center">267</p> | <p align="center">994</p> | <p align="center">1,538 | <p align="center">566</p> | <p align="center">820</p> |
 
 ### Source Codes
-
-|             | YOLOv5 | Faster R-CNN |
-|-------------|--------|--------------|
-| dataset     | <p align="center">[YOLOv5 dataset](https://drive.google.com/file/d/1JxqwxHEYqODKm1eXWx4OCNffDZejDLOz/view?usp=sharing) | <p align="center"></p> |
-| normal code | <p align="center">[YOLOv5 code: normal cases](./codes/YOLOv5_normal_code.ipynb)</p> | <p align="center"></p> |
-| all code    | <p align="center"></p> | <p align="center"></p> |
+* Datasets and source codes that match the experimental environment.
+  
+    |             | YOLOv5 | Faster R-CNN |
+    |-------------|--------|--------------|
+    | dataset     | <p align="center">[YOLOv5 dataset](https://drive.google.com/file/d/1JxqwxHEYqODKm1eXWx4OCNffDZejDLOz/view?usp=sharing) | <p align="center"></p> |
+    | normal code | <p align="center">[YOLOv5 code: normal cases](./codes/YOLOv5_normal_code.ipynb)</p> | <p align="center"></p> |
+    | all code    | <p align="center"></p> | <p align="center"></p> |
 
 ### Demonstration
 
