@@ -52,7 +52,7 @@
   
     |             | YOLOv5 | Faster R-CNN |
     |-------------|--------|--------------|
-    | dataset     | <p align="center">[YOLOv5 dataset](https://drive.google.com/file/d/1JxqwxHEYqODKm1eXWx4OCNffDZejDLOz/view?usp=sharing) | <p align="center"></p> |
+    | dataset     | <p align="center">[YOLOv5 dataset zip](https://drive.google.com/file/d/1JxqwxHEYqODKm1eXWx4OCNffDZejDLOz/view?usp=sharing) | <p align="center">[Faster R-CNN dataset zip](https://drive.google.com/file/d/1NEQWK062dMREwDSbHOPPMx-99iUVebrN/view?usp=sharing)</p> |
     | normal code | <p align="center">[YOLOv5 code](./codes/YOLOv5_normal_HOD_code.ipynb)</p> | <p align="center"></p> |
     | all code    | <p align="center">[YOLOv5 code](./codes/YOLOv5_all_HOD_code.ipynb)</p> | <p align="center"></p> |
 
