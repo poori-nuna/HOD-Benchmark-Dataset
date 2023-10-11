@@ -38,24 +38,17 @@
                 <b>hard/</b>
     </pre>
 
-* The alcohol normal case dataset contains 533 images.
-* The alcohol hard case dataset contains 978 images.
-* The insulting gesture normal case dataset contains 466 images.
-* The insulting gesture hard case dataset contains 267 images.
-* The blood normal case dataset contains 554 images.
-* The blood hard case dataset contains 994 images.
-* The cigarette normal case dataset contains 550 images.
-* The cigarette hard case dataset contains 1,538 images.
-* The gun normal case dataset contains 999 images.
-* The gun hard case dataset contains 566 images.
-* The knife normal case dataset contains 2,366 images.
-* The knife hard case dataset contains 820 images.
+|              | alcohol | insulting gesture | blood | cigarette | gun | knife |
+|--------------|---------|-------------------|-------|-----------|-----|-------|
+| normal cases | <p align="center">533</p> | <p align="center">466</p> | <p align="center">554</p> | <p align="center">550 | <p align="center">999</p> | <p align="center">2,366</p> |
+| hard cases   | <p align="center">978</p> | <p align="center">267</p> | <p align="center">994</p> | <p align="center">1,538 | <p align="center">566</p> | <p align="center">820</p> |
 
 ### Source Codes
+
 |         | YOLOv5 | Faster R-CNN |
 |---------|--------|--------------|
-| dataset | [YOLOv5 dataset](https://drive.google.com/file/d/1JxqwxHEYqODKm1eXWx4OCNffDZejDLOz/view?usp=sharing) |  |
-| code    |        |              |
+| dataset | <p align="center">[YOLOv5 dataset](https://drive.google.com/file/d/1JxqwxHEYqODKm1eXWx4OCNffDZejDLOz/view?usp=sharing) | <p align="center"></p> |
+| code    | <p align="center"></p> | <p align="center"></p> |
 
 ### Demonstration
 
