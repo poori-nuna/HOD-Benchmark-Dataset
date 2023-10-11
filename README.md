@@ -2,7 +2,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2208.11613-b31b1b.svg)](https://arxiv.org/abs/2310.05192)
 
 ### A Benchmark Dataset for Harmful Object Detection
-* This repository provides<b>Harmful Object Dataset<b> and PyTorch implementations for Detection models(YOLOv5 and Faster-RCNN).
+* This repository provides <b>Harmful Object Dataset</b> and PyTorch implementations for Detection models(YOLOv5 and Faster-RCNN).
 
 ### Authors
 [Eungyeom Ha](https://github.com/poori-nuna), [Heemook Kim](https://github.com/2mook2), [Sungchul Hong](https://github.com/schong57), [Dongbin Na](https://github.com/ndb796)
