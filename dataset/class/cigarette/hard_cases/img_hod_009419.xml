@@ -1,0 +1,25 @@
+<annotation>
+	<folder>cigarette1</folder>
+	<filename>img_hod_009419.jpg</filename>
+	<path>/cigarette1/img_hod_009419.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>417</width>
+		<height>626</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>604</ymin>
+			<xmax>257</xmax>
+			<ymax>626</ymax>
+		</bndbox>
+	</object>
+</annotation>

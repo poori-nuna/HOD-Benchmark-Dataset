@@ -1,0 +1,25 @@
+<annotation>
+	<folder>fuck_fingers_1</folder>
+	<filename>img_hod_009700.jpg</filename>
+	<path>/fuck_fingers_1/img_hod_009700.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>418</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>insulting_gesture</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>318</xmin>
+			<ymin>192</ymin>
+			<xmax>377</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>img_hod_001603.jpg</filename>
+	<path>/my_project_name/img_hod_001603.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>436</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>insulting_gesture</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>151</ymin>
+			<xmax>317</xmax>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+</annotation>

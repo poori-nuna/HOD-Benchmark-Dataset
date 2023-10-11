@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>img_hod_004872.jpg</filename>
+	<path>/my_project_name/img_hod_004872.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>751</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>blood</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>319</ymin>
+			<xmax>336</xmax>
+			<ymax>493</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blood</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>266</xmin>
+			<ymin>232</ymin>
+			<xmax>294</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

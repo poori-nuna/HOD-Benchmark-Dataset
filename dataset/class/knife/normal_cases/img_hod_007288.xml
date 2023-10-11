@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>img_hod_007288.jpg</filename>
+	<path>/my_project_name/img_hod_007288.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>434</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>235</ymin>
+			<xmax>355</xmax>
+			<ymax>550</ymax>
+		</bndbox>
+	</object>
+</annotation>

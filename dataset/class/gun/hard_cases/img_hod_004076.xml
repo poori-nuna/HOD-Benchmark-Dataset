@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>img_hod_004076.jpg</filename>
+	<path>/my_project_name/img_hod_004076.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>754</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>244</xmin>
+			<ymin>322</ymin>
+			<xmax>959</xmax>
+			<ymax>583</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>258</ymin>
+			<xmax>1258</xmax>
+			<ymax>512</ymax>
+		</bndbox>
+	</object>
+</annotation>
