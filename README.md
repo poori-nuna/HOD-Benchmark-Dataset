@@ -53,8 +53,8 @@
     |             | YOLOv5 | Faster R-CNN |
     |-------------|--------|--------------|
     | dataset     | <p align="center">[YOLOv5 dataset zip](https://drive.google.com/file/d/1JxqwxHEYqODKm1eXWx4OCNffDZejDLOz/view?usp=sharing) | <p align="center">[Faster R-CNN dataset zip](https://drive.google.com/file/d/1NEQWK062dMREwDSbHOPPMx-99iUVebrN/view?usp=sharing)</p> |
-    | normal code | <p align="center">[YOLOv5 code](./codes/YOLOv5_normal_HOD_code.ipynb)</p> | <p align="center"></p> |
-    | all code    | <p align="center">[YOLOv5 code](./codes/YOLOv5_all_HOD_code.ipynb)</p> | <p align="center"></p> |
+    | all code | <p align="center">[YOLOv5 code](./codes/HOD_YOLOv5_all.ipynb)</p> | <p align="center">[Faster-RCNN Training code](./codes/HOD_FasterRCNN_training_all.ipynb)</p><p align="center">[Faster-RCNN Test code:hard cases](./codes/HOD_FasterRCNN_test_all_to_hard.ipynb)</p><p align="center">[Faster-RCNN Test code:normal cases](./codes/HOD_FasterRCNN_test_all_to_normal.ipynb)</p> |
+    | normal code    | <p align="center">[YOLOv5 code](./codes/HOD_YOLOv5_normal.ipynb)</p> | <p align="center">[Faster-RCNN Training code](./codes/HOD_FasterRCNN_training_normal.ipynb)</p> |
 
 ### Demonstration
 
