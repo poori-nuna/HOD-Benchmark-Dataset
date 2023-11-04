@@ -8,7 +8,7 @@
 
 ### Authors
 
-* [Eungyeom Ha](https://github.com/poori-nuna), [Heemook Kim](https://github.com/2mook2), [Sungchul Hong](https://github.com/schong57), [Dongbin Na](https://github.com/ndb796)
+* [Eungyeom Ha](https://github.com/poori-nuna), [Heemook Kim](https://github.com/2mook2), [Dongbin Na](https://github.com/ndb796)
 
 ### Abstract
 
