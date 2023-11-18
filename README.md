@@ -89,13 +89,13 @@ _Dear Researchers and Collaborators,_
 
 As part of our commitment to advancing research, we have provided a benchmark dataset associated with our recent publication. While we are excited to share this resource with the community, we want to highlight some important considerations:
 
-Copyright Compliance: This dataset is shared for research purposes only. Please ensure that your use of the dataset complies with all applicable copyright laws and regulations. Redistribution of the dataset without proper authorization is not permitted.
+* Copyright Compliance: This dataset is shared for research purposes only. Please ensure that your use of the dataset complies with all applicable copyright laws and regulations. Redistribution of the dataset without proper authorization is not permitted.
 
-Privacy Considerations: We have taken steps to ensure the privacy and confidentiality of any individuals or entities represented in the dataset. Users of this dataset are expected to uphold these standards and not use the data in any way that compromises individual privacy.
+* Privacy Considerations: We have taken steps to ensure the privacy and confidentiality of any individuals or entities represented in the dataset. Users of this dataset are expected to uphold these standards and not use the data in any way that compromises individual privacy.
 
-Intended Use: This dataset is intended solely for academic and research purposes. We urge users to apply this data responsibly and ethically, keeping in mind its intended application in the field.
+* Intended Use: This dataset is intended solely for academic and research purposes. We urge users to apply this data responsibly and ethically, keeping in mind its intended application in the field.
 
-User Agreement: By accessing and using this dataset, users agree to adhere to these terms and conditions. Misuse of the data or violation of these guidelines may result in restricted access to future resources.
+* User Agreement: By accessing and using this dataset, users agree to adhere to these terms and conditions. Misuse of the data or violation of these guidelines may result in restricted access to future resources.
 
 We appreciate your cooperation in using this dataset responsibly. If you have any concerns or questions regarding the dataset, please feel free to contact us through GitHub.
 
