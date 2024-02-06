@@ -5,7 +5,7 @@
 ### A Benchmark Dataset for Harmful Object Detection
 
 * This repository provides <b>Harmful Object Dataset</b> and PyTorch implementations for Detection models (YOLOv5 and Faster-RCNN).
-
+* (News) This work is accepted to the WACV 2024 workshop on Real-World Surveillance: Applications and Challenges, 4th.
 ### Authors
 
 * [Eungyeom Ha](https://github.com/poori-nuna), [Heemook Kim](https://github.com/2mook2), [Dongbin Na](https://github.com/ndb796)
